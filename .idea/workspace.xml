@@ -7,6 +7,7 @@
     <list default="true" id="3aad8821-363a-4934-be60-8cc17b4eedea" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test code.md" beforeDir="false" afterPath="$PROJECT_DIR$/test code.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +57,7 @@
       <workItem from="1676969978336" duration="1608000" />
       <workItem from="1676975580295" duration="132000" />
       <workItem from="1676978902701" duration="547000" />
-      <workItem from="1677029849024" duration="2169000" />
+      <workItem from="1677029849024" duration="3500000" />
     </task>
     <task id="LOCAL-00001" summary="change in 0221">
       <created>1676970041661</created>
@@ -99,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677029934413</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change in 02221045">
+      <created>1677033946932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677033946932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change in 02221046">
+      <created>1677034012477</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677034012477</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +138,8 @@
     <MESSAGE value="change in 02211929" />
     <MESSAGE value="change in 02220937" />
     <MESSAGE value="change in 02220938" />
-    <option name="LAST_COMMIT_MESSAGE" value="change in 02220938" />
+    <MESSAGE value="change in 02221045" />
+    <MESSAGE value="change in 02221046" />
+    <option name="LAST_COMMIT_MESSAGE" value="change in 02221046" />
   </component>
 </project>
