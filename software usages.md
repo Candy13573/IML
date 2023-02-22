@@ -38,10 +38,22 @@ import torch
 print('pytorch版本：', torch.__version__)
 ```
 ## Pytorch-GPU
-### Install for Pytorch-GPU (e.g CUDA11.7) (recommend)
+### Install for Pytorch-GPU (e.g CUDA11.7) (recommended)
 ```shell
 pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117 # For Windows-Pip-Python-CUDA11.7
 ```
 ```shell
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia # For Windows-Conda-Python-CUDA11.
 ```
+### Test code for Pytorch-GPU
+```python
+import torch
+print('pytorch版本：', torch.__version__)
+print('cuda版本：', torch.version.cuda)
+print('cudnn版本号：', torch.backends.cudnn.version())
+ngpu = 1
+device = torch.device("cuda:0" if (torch.cuda.is_available() and ngpu > 0) else "cpu")
+print('cuda设备名：', device)
+print('gpu名称：', torch.cuda.get_device_name(0))
+```
+# TensorFlow
