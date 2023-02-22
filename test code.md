@@ -1,7 +1,7 @@
-# 
+# Pytorch
 
 for installing new version of Pytorch, please uninstall old versions
 
-```cmd
+```shell
 pip uninstall torch torchvision torchaudio
 ```
