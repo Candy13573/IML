@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aad8821-363a-4934-be60-8cc17b4eedea" name="变更" comment="" />
+    <list default="true" id="3aad8821-363a-4934-be60-8cc17b4eedea" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
       <workItem from="1676953027131" duration="303000" />
       <workItem from="1676969978336" duration="1608000" />
       <workItem from="1676975580295" duration="132000" />
+      <workItem from="1676978902701" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="change in 0221">
       <created>1676970041661</created>
@@ -65,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676971192465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change in 02211928">
+      <created>1676978921455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676978921455</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change in 02211929">
+      <created>1676978997210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676978997210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change in 0221" />
-    <option name="LAST_COMMIT_MESSAGE" value="change in 0221" />
+    <MESSAGE value="change in 02211928" />
+    <MESSAGE value="change in 02211929" />
+    <option name="LAST_COMMIT_MESSAGE" value="change in 02211929" />
   </component>
 </project>
