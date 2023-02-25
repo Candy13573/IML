@@ -8,4 +8,4 @@
 ## Notebook
 [GNN Model](./GNN%20Model.ipynb)
 
-
+[GNN Test code](./GNN%20Test%20code.ipynb)
