@@ -6,6 +6,6 @@
 
 [Video List](./Video%20List.md)
 ## Notebook
-[GNN Model](./GNN%20Model.ipynb)
+[1.Introduction](./PyG%20Tutorials/1.Introduction.ipynb)
 
 [GNN Test code](./GNN%20Test%20code.ipynb)
