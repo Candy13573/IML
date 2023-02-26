@@ -1,7 +1,7 @@
 # Method
 ## LIME
-[[Github](https://github.com/marcotcr/lime)]
-[[Paper](https://arxiv.org/abs/1602.04938)]
+![Github](https://github.com/marcotcr/lime)
+![Paper](https://arxiv.org/abs/1602.04938)
 
 ### GraphLIME
 [[Github](https://github.com/WilliamCCHuang/GraphLIME)]
