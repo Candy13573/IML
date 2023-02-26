@@ -16,5 +16,6 @@
 ## PyG
 [[Github](https://github.com/pyg-team/pytorch_geometric)]
 [[Paper](https://pytorch-geometric.readthedocs.io/en/latest/)]
+[[Documentation]]
 
-# For Computer-aided-diagnosis Model for brain image
+# Computer-aided-diagnosis gnn model for brain image
