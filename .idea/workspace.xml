@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aad8821-363a-4934-be60-8cc17b4eedea" name="变更" comment="" />
+    <list default="true" id="3aad8821-363a-4934-be60-8cc17b4eedea" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +97,7 @@
       <workItem from="1677309257121" duration="12372000" />
       <workItem from="1677380883635" duration="1561000" />
       <workItem from="1677383232553" duration="122000" />
+      <workItem from="1677395191260" duration="1701000" />
     </task>
     <task id="LOCAL-00001" summary="change in 0221">
       <created>1676970041661</created>
@@ -215,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677383345930</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="changed in 02261508">
+      <created>1677395333918</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677395333918</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +259,8 @@
     <MESSAGE value="changed in 02252109" />
     <MESSAGE value="changed in 02261148" />
     <MESSAGE value="changed in 02261149" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed in 02261149" />
+    <MESSAGE value="changed in 02261508" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed in 02261508" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GNN_Model_ipynb$scratch_5.coverage" NAME="scratch_5 覆盖结果" MODIFIED="1677170570879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
